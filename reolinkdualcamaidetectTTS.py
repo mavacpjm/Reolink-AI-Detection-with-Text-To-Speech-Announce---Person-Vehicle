@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Reolink AI Detection Alert System - Version 2.1
+Reolink AI Detection Alert System - Version 2.2
 Monitors TWO cameras for person/vehicle detection with separate credentials.
 Plays human-sounding text-to-speech alerts.
 """
